@@ -5,8 +5,7 @@
 <a href="https://github.com/alkhalifas/alkhalifas">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=alkhalifas&show_icons=true&line_height=33&line_width=100&count_private=true&theme=algolia" alt="Saleh's GitHub Stats" />
 </a>
-<br>
-  <h1>test</h1>
+
   
 <!-- <br> -->
 <!-- <a href="https://github.com/alkhalifas/alkhalifas">
